@@ -22,7 +22,7 @@
 - **Requests**, **BeautifulSoup**, **re**, **validators**
 - **Fake User-Agent Rotation**
 - **3rd Party APIs** for email/phone validation (e.g., Numverify, Abstract API, Hunter.io)
-- **CSV** and **JSON** handling
+- **CSV** and **JSON** handling and more
 
 ---
 
@@ -51,13 +51,14 @@ This project uses external APIs for deep validation of contact info. You’ll ne
 
 Once you have the keys, update the respective code parts with `your_api_key`.
 
-## 🚀 Usage
+## 🚀 How to Use:
 
 After project setup,Follow the steps to run the Web-Scraper.
-1. Connect Your device with proper internet connection as the scraper required internet connection for fully functioning or as a result it may not generate desired output.
-2. Run web_scrper.py
-3. Input any link that you want to scrape from.
-4. In the directory a csv file will be generated with the detailed information leads.
+1. Install all the required packages in your given in `requirements.txt`.
+2. Connect Your device with proper internet connection as the scraper required internet connection for fully functioning or as a result it may not generate desired output.
+3. Run web_scrper.py
+4. Input any link that you want to scrape from.
+5. In the directory a csv file will be generated with the detailed information leads.
 
 ---
 
@@ -72,10 +73,11 @@ After project setup,Follow the steps to run the Web-Scraper.
 
 ---
 
-## Video Demonstration:
-Link - `https://drive.google.com/file/d/1iLymLLqKlmzd0IOUAkyHpr_AJvbYVaIm/view?usp=sharing`.
-
+## Links:
+* Video Link - `https://drive.google.com/file/d/1iLymLLqKlmzd0IOUAkyHpr_AJvbYVaIm/view?usp=sharing`.
+* Report Link - `https://docs.google.com/document/d/1TXO--hrk3Mehgz3BCxnOFMq6abY7k244/edit?usp=drive_link&ouid=103854884657847179289&rtpof=true&sd=true`.
 ---
+
 ## Understanding The Output Columns:
 Output Columns areas follows
 1. type	:Contact type such as email,phone,twitter,instagram,etc
