@@ -72,6 +72,10 @@ After project setup,Follow the steps to run the Web-Scraper.
 
 ---
 
+## Video Demonstration:
+Link - `https://drive.google.com/file/d/1iLymLLqKlmzd0IOUAkyHpr_AJvbYVaIm/view?usp=sharing`.
+
+---
 ## Understanding The Output Columns:
 Output Columns areas follows
 1. type	:Contact type such as email,phone,twitter,instagram,etc
