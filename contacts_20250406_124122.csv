@@ -1,0 +1,5 @@
+type,value,valid,confidence
+linkedin,https://www.linkedin.com/school/stanford-university/,yes,70
+twitter,https://twitter.com/stanford,yes,65
+facebook,https://www.facebook.com/stanford,yes,50
+instagram,https://www.instagram.com/stanford/,yes,50
