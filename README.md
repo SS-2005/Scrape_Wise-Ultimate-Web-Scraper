@@ -84,10 +84,6 @@ Output Columns areas follows
 4. confidence :Contact Response likelihood score, How likely is the contact going to respond when reached.
 
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ---
 
 ## 🙌 Contributions
